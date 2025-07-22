@@ -11,17 +11,8 @@ If you searching "Talliki Vandanam status", here is the answer FIRST—you can i
 
 ---
 
-## ✅ How To Check Your Status
+<a href="https://en.dynews.net/talliki-vandanam-status/"><img width="1903" height="695" alt="image" src="https://github.com/user-attachments/assets/0c99a213-20dc-4cff-8b6e-3885ee221507" /></a>
 
-| Step | What to Do |
-|------|------------|
-| 1 | Visit **GSWS‑NBM portal**: | `gsws‑nbm.ap.gov.in` |
-| 2 | Choose **Scheme | Talliki Vandanam** Talliki Vandanam Scheme 2025  Payment Status Check:  online from here (working now) |
-| 3 | Select **Financial Year | 2025‑26** |
-| 4 | Enter **AADHAAR number** + captcha |
-| 5 | Click **Get OTP**|  then enter OTP |
-| 6 | See your **Status**:  | **Eligible & Paid** = ₹13,000 credited  
-| 7 | For issues, contact Gram Sachivalayam | raise grievance on portal |
 
 ---
 
@@ -77,10 +68,6 @@ If you searching "Talliki Vandanam status", here is the answer FIRST—you can i
 - Help lines for Aadhaar and attendance corrections
 
 ---
-
-This `README.md` can be downloaded or copy‑pasted directly into your **GitHub repo**. Feel free to tweak accent or layout to match style!
-
----
-
 *Last updated: July 21, 2025*
+---
 

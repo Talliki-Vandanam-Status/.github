@@ -1,7 +1,3 @@
----
-title: "Talliki Vandanam Status - How to Check & Scheme Details"
----
-
 # Talliki Vandanam Status - How to Check & Latest Updates
 
 If you searching "Talliki Vandanam status", here is the answer FIRST—you can immediately check online via the official GSWS‑NBM portal using your AADHAAR. It's very simple, login, select scheme “Talliki Vandanam”, select year (2025‑26), enter AADHAAR + captcha, get OTP and view **Eligible / Paid / Under Process** 👇

@@ -15,15 +15,14 @@ If you searching "Talliki Vandanam status", here is the answer FIRST—you can i
 
 | Step | What to Do |
 |------|------------|
-| 1 | Visit **GSWS‑NBM portal**: `gsws‑nbm.ap.gov.in` :contentReference[oaicite:4]{index=4} |
-| 2 | Choose **Scheme = Talliki Vandanam** |
-| 3 | Select **Financial Year = 2025‑26** |
+| 1 | Visit **GSWS‑NBM portal**: | `gsws‑nbm.ap.gov.in` |
+| 2 | Choose **Scheme | Talliki Vandanam** |
+| 3 | Select **Financial Year | 2025‑26** |
 | 4 | Enter **AADHAAR number** + captcha |
-| 5 | Click **Get OTP**, then enter OTP |
-| 6 | See your **Status**:  
-• **Eligible & Paid** = ₹13,000 credited  
-• **Eligible & To be Paid** = pending in next tranche :contentReference[oaicite:5]{index=5} |
-| 7 | For issues, contact Gram Sachivalayam or raise grievance on portal |
+| 5 | Click **Get OTP**|  then enter OTP |
+| 6 | See your **Status**:  | **Eligible & Paid** = ₹13,000 credited  
+• **Eligible & To be Paid** | pending in next tranche  |
+| 7 | For issues, contact Gram Sachivalayam | raise grievance on portal |
 
 ---
 

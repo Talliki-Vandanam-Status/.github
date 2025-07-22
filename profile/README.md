@@ -11,8 +11,7 @@ If you searching "Talliki Vandanam status", here is the answer FIRST—you can i
 
 ---
 
-<a href="https://en.dynews.net/talliki-vandanam-status/"><img width="1903" height="695" alt="image" src="https://github.com/user-attachments/assets/0c99a213-20dc-4cff-8b6e-3885ee221507" /></a>
-
+<a href="https://en.dynews.net/talliki-vandanam-status/"><img width="711" height="333" alt="image" src="https://github.com/user-attachments/assets/ec10895a-f34f-4ece-b9de-63ab35584845" /></a>
 
 ---
 

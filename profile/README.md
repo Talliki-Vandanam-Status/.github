@@ -1,12 +1,92 @@
-## Hi there 👋
+---
+title: "Talliki Vandanam Status - How to Check & Scheme Details"
+---
 
-<!--
+# Talliki Vandanam Status - How to Check & Latest Updates
 
-**Here are some ideas to get you started:**
+If you searching "Talliki Vandanam status", here is the answer FIRST—you can immediately check online via the official GSWS‑NBM portal using your AADHAAR. It's very simple, login, select scheme “Talliki Vandanam”, select year (2025‑26), enter AADHAAR + captcha, get OTP and view **Eligible / Paid / Under Process** 👇
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎯 What is Talliki Vandanam?
+
+- 👩‍👧‍👦 Welfare scheme in Andhra Pradesh, launched **12 June 2025** :contentReference[oaicite:0]{index=0}  
+- Provides financial assistance **₹15,000 per year per child**, directly to mothers’ bank accounts. ₹2,000 is held for school development; ₹13,000 credited to mother :contentReference[oaicite:1]{index=1}  
+- Covers students from **Class 1 to 12**, attendance >75%, white ration card, BPL income criteria :contentReference[oaicite:2]{index=2}  
+- Around **67 lakh students**, ₹8,745 cr budget :contentReference[oaicite:3]{index=3}
+
+---
+
+## ✅ How To Check Your Status
+
+| Step | What to Do |
+|------|------------|
+| 1 | Visit **GSWS‑NBM portal**: `gsws‑nbm.ap.gov.in` :contentReference[oaicite:4]{index=4} |
+| 2 | Choose **Scheme = Talliki Vandanam** |
+| 3 | Select **Financial Year = 2025‑26** |
+| 4 | Enter **AADHAAR number** + captcha |
+| 5 | Click **Get OTP**, then enter OTP |
+| 6 | See your **Status**:  
+• **Eligible & Paid** = ₹13,000 credited  
+• **Eligible & To be Paid** = pending in next tranche :contentReference[oaicite:5]{index=5} |
+| 7 | For issues, contact Gram Sachivalayam or raise grievance on portal |
+
+---
+
+## 🗓️ Disbursement Schedule
+
+- **First Tranche**: ₹13,000 credited on **12 June 2025** :contentReference[oaicite:6]{index=6}  
+- **Second Tranche**: Released on **10 July 2025** :contentReference[oaicite:7]{index=7}
+
+---
+
+## ⚠️ Common Issues & Fixes
+
+1. **₹2,000 deduction**: For school administration use, not loss :contentReference[oaicite:8]{index=8}  
+2. **Banks treat as loan**: Some ₹13k credited seen as personal loan if mother has pending bank loan :contentReference[oaicite:9]{index=9}  
+3. **Missing due to electricity meter AADHAAR linkage error**: Govt investigating :contentReference[oaicite:10]{index=10}  
+4. **172 students missed**: Local mistake; second tranche will include them :contentReference[oaicite:11]{index=11}  
+5. **Beware fake links**: Police warns against phishing for OTPs :contentReference[oaicite:12]{index=12}
+
+---
+
+## 📌 Frequently Asked Questions (FAQ)
+
+**Q1. What if status shows "Not in database"?**  
+→ It means your data not yet processed. Contact local PGRS cell or Gram Sachivalayam to update Aadhaar and attendance details :contentReference[oaicite:13]{index=13}.
+
+**Q2. Why only ₹13,000, not ₹15,000?**  
+→ ₹2,000 allocated for school use; rest ₹13,000 goes to mother’s account :contentReference[oaicite:14]{index=14}.
+
+**Q3. Can private school students apply?**  
+→ Yes, attends recognized schools (govt, aided, private unaided, residential) are eligible :contentReference[oaicite:15]{index=15}.
+
+**Q4. Attendance requirement?**  
+→ Must maintain minimum **75% attendance** in previous academic year :contentReference[oaicite:16]{index=16}.
+
+**Q5. What to do if money not received yet?**  
+→ Check status again, then raise grievance on portal or visit local govt centre.
+
+---
+
+## 📝 Summary
+
+- **Search intent** fulfilled: You want immediate answer on how to check status and what it means.  
+- **Long‑tail keywords** used: *“how to check Talliki Vandanam status online”*, *“Talliki Vandanam eligibility list”* etc.  
+- **Tables**, **FAQ**, **listicles** used for clarity.  
+- **Simple English**, random UPPERCASE & little comma mistakes, Indian accent style sprinkled 😄.
+
+---
+
+## 🔗 Useful Links
+
+- Official status & grievance portal  
+- Local Gram Sachivalayam contact  
+- Help lines for Aadhaar and attendance corrections
+
+---
+
+This `README.md` can be downloaded or copy‑pasted directly into your **GitHub repo**. Feel free to tweak accent or layout to match style!
+
+---
+
+*Last updated: July 21, 2025*
+

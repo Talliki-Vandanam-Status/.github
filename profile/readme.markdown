@@ -41,10 +41,9 @@ The Andhra Pradesh government has streamlined the process for checking Talliki V
    - For issues, visit the nearest Village/Ward Secretariat to file a grievance.
 
 ## Recent Updates (as of July 25, 2025)
-- **Second Phase Payments**: The second installment of funds for 10 lakh students is set to be released soon, with payments expected after July 5, 2025, for eligible beneficiaries. Grievances filed for non-payment or ineligibility have been addressed, with updated lists published at Secretariats.[](https://telugu.samayam.com/andhra-pradesh/news/talliki-vandanam-scheme-2025-second-phase-beneficiaries-can-check-their-application-status-with-this-new-process/articleshow/122494914.cms)
-- **Grievance Redressal**: The government has introduced a grievance filing option at Grama/Ward Sachivalayams for issues like missing payments, ineligibility due to technical errors, or partial payments for families with multiple children.[](https://www.gswshelper.com/2025/06/thalliki-vandanam-payment-not-received-status-2025.html?m=1)
-- **eKYC Verification**: The GSWS Employees App (Version 8.4) now includes a module for verifying mother/child demise and pending eKYC cases, ensuring accurate beneficiary identification.[](https://www.chvblog.com/2025/06/check-thalliki-vandanam-status-eligibility-grievance.html)
-- **Mega Parent-Teacher Meeting**: A state-wide meeting is scheduled for July 10, 2025, to discuss the scheme and educational outcomes, organized by the Samagra Shiksha Abhiyan.[](https://telugu.samayam.com/andhra-pradesh/news/talliki-vandanam-scheme-2025-second-list-ready-and-beneficiaries-can-status-check-details-here/articleshow/122194114.cms)
+- **Second Phase Payments**: The second installment of funds for 10 lakh students is set to be released soon, with payments expected after July 5, 2025, for eligible beneficiaries. Grievances filed for non-payment or ineligibility have been addressed, with updated lists published at Secretariats.
+- **eKYC Verification**: The GSWS Employees App (Version 8.4) now includes a module for verifying mother/child demise and pending eKYC cases, ensuring accurate beneficiary identification.[]
+- **Mega Parent-Teacher Meeting**: A state-wide meeting is scheduled for July 10, 2025, to discuss the scheme and educational outcomes, organized by the Samagra Shiksha Abhiyan.
 
 ## Common Issues and Solutions
 Some beneficiaries have reported issues with payments, such as:

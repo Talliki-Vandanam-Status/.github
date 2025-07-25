@@ -2,7 +2,8 @@
 
 The government of Andhrapradesh is about to release the most importaant welfare scheme Talliki Vandanam scheme 2025, which creates wonderful opportunites for thousands of mothers and guardians in Andhra Pradesh. This important update provides most essential information about upcommning Talliki Vandanam payment process, eligibiilty criteria, and benefits. This update will help mothers who have missed opportunity previously, and for new applicants too. Here we have included complete details about Talliki Vandanam Scheme 2025 to help all beneficaries.
 
-image
+![c0021832-7fc9-4aaa-b035-fc4a3c66f379](https://github.com/user-attachments/assets/c672d103-506b-48c6-b41a-6106ecedceaa)
+
 
 Image source - gsws-nbm.ap.gov.in
 

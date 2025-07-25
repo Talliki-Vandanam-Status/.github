@@ -1,61 +1,54 @@
-# Talliki Vandanam Scheme 2025: Checking Payment Status and Updates
+# Talliki Vandanam Scheme 2025: gsws-nbm.ap.gov.in CHECK STATUS online for latest updates
 
-## Introduction
-The Talliki Vandanam Scheme 2025, launched by the Andhra Pradesh government on June 12, 2025, is a flagship initiative under the "Super Six" promises of the Telugu Desam Party (TDP)-led NDA government. Translating to "Salutations to Mother," this welfare program provides financial assistance of ₹15,000 per year per child to mothers or guardians of students from Class 1 to Intermediate (Class 12) in recognized government, private aided, private unaided, and residential schools or junior colleges. Of this, ₹13,000 is credited directly to the mother’s Aadhaar-linked bank account, with ₹2,000 allocated for school development. With a budget of ₹8,745 crore, the scheme aims to benefit approximately 67 lakh mothers, reducing school dropout rates and supporting financially vulnerable families. This article provides a comprehensive guide to checking the Talliki Vandanam payment status, eligibility criteria, and recent updates, ensuring transparency and accessibility for beneficiaries.
+The government of Andhrapradesh is about to release the most importaant welfare scheme Talliki Vandanam scheme 2025, which creates wonderful opportunites for thousands of mothers and guardians in Andhra Pradesh. This important update provides most essential information about upcommning Talliki Vandanam payment process, eligibiilty criteria, and benefits. This update will help mothers who have missed opportunity previously, and for new applicants too. Here we have included complete details about Talliki Vandanam Scheme 2025 to help all beneficaries.
 
-## Importance of the Talliki Vandanam Scheme
-The Talliki Vandanam Scheme is a transformative step toward promoting education and empowering mothers in Andhra Pradesh. By providing direct financial support, it alleviates the economic burden of schooling, encouraging regular attendance and reducing dropout rates among children from economically weaker sections. The scheme’s focus on transferring funds to mothers’ accounts underscores their pivotal role in family and education, fostering respect and empowerment. Its transparent verification process, grievance redressal system, and online status-checking tools ensure accountability and ease of access for beneficiaries.
+image
 
-## Eligibility Criteria
-To qualify for the Talliki Vandanam Scheme, families and students must meet the following conditions:
-- **Educational Level**: Students must be enrolled in Classes 1 to 12 in recognized government, private, or residential schools or junior colleges in Andhra Pradesh.
-- **Attendance**: Students must maintain at least 75% attendance in the current academic year (2024-25).
-- **Residency**: The family must be permanent residents of Andhra Pradesh, verified by Aadhaar.
-- **Income Limits**: Monthly family income should not exceed ₹10,000 in rural areas or ₹12,000 in urban areas.
-- **Land Ownership**: Families should own less than 3 acres of wetland, 10 acres of dryland, or 10 acres combined.
-- **Electricity Usage**: Average monthly electricity consumption over the past 12 months should be less than 300 units.
-- **Other Restrictions**: Families owning four-wheelers (except cars, tractors, or taxis), municipal property over 1,000 sq. ft., or with members in government jobs (except sanitation workers or low-wage staff) are ineligible. Students in fee-exempt courses like ITI, Polytechnic, or IIIT (RGUKT) are also excluded.
+Image source - gsws-nbm.ap.gov.in
 
-## How to Check Talliki Vandanam Payment Status
-The Andhra Pradesh government has streamlined the process for checking Talliki Vandanam payment status through the Navasakam Beneficiary Management (NBM) portal and other platforms, ensuring beneficiaries can verify their status without visiting government offices. Follow these steps to check your status:
+| Category | Details |
+| --- | --- |
+| Organization | AP Grama/Ward Sachivalayam - AP government body Talliki Vandanam 2025: gsws-nbm.ap.gov.in |
+| Beneficiary Location | Andra Pradesh |
+| Eligibiilty | Students in Class 1 to 12 (Varies according family income/land) |
+| Age limit | No age limit for mothers; children in school age (Age relaxation as per rules) may vary by community |
+| Verification Process | Aadhaar verification + Attendance check |
+| Application mode | Check Status Online |
+| Official Website | gsws-nbm.ap.gov.in |
 
-1. **Visit the Official GSWS NBM Portal**:
-   - Navigate to [gsws-nbm.ap.gov.in](https://gsws-nbm.ap.gov.in/NBM/#!/ApplicationStatusCheckP).
-   - Alternatively, use the Public Financial Management System (PFMS) website for payment status checks.
+## TALLIKI VANDANAM Notificaiton Importance
 
-2. **Select the Scheme**:
-   - On the homepage, choose "Talliki Vandanam" from the scheme dropdown menu and select the financial year 2025-26.
+The Talliki Vandanam representes the Government OF Andhra Pradesh, this is most important initiative from gov of ap to bring financial support directly to mothers doorsteps. This 2025 Talliki Vandanam notification particularly provides money to most of the eliglible mothers. This notification is organized by Andhra Pradesh Grama/Ward Sachivalayam.
 
-3. **Enter Details**:
-   - Input the mother’s Aadhaar number or application number, along with the captcha code.
-   - Click "Get OTP" to receive a verification code on the registered mobile number linked to the Aadhaar.
+CHECK STATUS NOW &gt;&gt;&gt; ONLINE Talliki Vandanam scheme 2025 pdf download The notification is avaliable @ gsws-nbm.ap.gov.in website officially provided by government of ap, Mothers can directly download it from official portal.
 
-4. **Verify and Submit**:
-   - Enter the OTP and click "Submit" to view the application status, which may display as:
-     - **Eligible**: Payment has been credited to the bank account.
-     - **Eligible and to be Paid**: Payment is scheduled (e.g., after July 5, 2025, for second-phase beneficiaries).
-     - **Under Process / Not in Database**: Contact the Public Grievance Redressal System (PGRS) cell in your district.
+Talliki Vandanam scheme 2025 pdf\
+Talliki Vandanam scheme 2025 last date\
+Talliki Vandanam scheme 2025 check status online\
+Talliki Vandanam scheme 2025 date\
+gsws-nbm.ap.gov.in login\
+GSWS A.P. gov in
 
-5. **Alternative Channels**:
-   - Check status via WhatsApp groups or local Grama/Ward Sachivalayam notice boards, where eligible and ineligible lists are published.
-   - For issues, visit the nearest Village/Ward Secretariat to file a grievance.
+## Important NOTES:
 
-## Recent Updates (as of July 25, 2025)
-- **Second Phase Payments**: The second installment of funds for 10 lakh students is set to be released soon, with payments expected after July 5, 2025, for eligible beneficiaries. Grievances filed for non-payment or ineligibility have been addressed, with updated lists published at Secretariats.
-- **eKYC Verification**: The GSWS Employees App (Version 8.4) now includes a module for verifying mother/child demise and pending eKYC cases, ensuring accurate beneficiary identification.[]
-- **Mega Parent-Teacher Meeting**: A state-wide meeting is scheduled for July 10, 2025, to discuss the scheme and educational outcomes, organized by the Samagra Shiksha Abhiyan.
+- There are various benefits avaliable for Talliki Vandanam like, ₹15000 per year per child, ₹13000 to mother’s account, ₹2000 for school.
+- Payment is completely Aadhaar-based, eligibility is FAMILY INCOME, ATTENDANCE, and LAND OWNERSHIP.
+- TO check status: you must be resident of Andhra Pradesh (Verified by Aadhaar).
 
-## Common Issues and Solutions
-Some beneficiaries have reported issues with payments, such as:
-- **Payment Not Received**: This may be due to incorrect Aadhaar-linked bank accounts, incomplete eKYC, or eligibility verification issues. Solution: Visit the NBM portal to check status, ensure Aadhaar is linked to an active bank account, and file a grievance at the local Secretariat if needed.
-- **Partial Payments**: Families with multiple children may receive funds for only one child. Solution: Raise a grievance via the NBM portal, selecting "Talliki Vandanam (FY 2025-26)" and specifying the issue.
-- **Ineligibility**: Technical errors, such as incorrect electricity usage data, may lead to ineligibility. Solution: Verify updated eligibility on the NBM portal and contact the PGRS cell if listed as ineligible despite meeting criteria.
+## FAQ's About Talliki Vandanam Scheme 2025
 
-## Tips for Beneficiaries
-- **Check Regularly**: Monitor the NBM portal or Secretariat notice boards for updates on payment status and beneficiary lists.
-- **Ensure Aadhaar Linkage**: Confirm that the mother’s bank account is linked to her Aadhaar and verified by the National Payments Corporation of India (NPCI).
-- **Maintain Attendance**: Ensure students maintain at least 75% attendance to remain eligible for the next academic year.
-- **File Grievances Promptly**: Address issues like non-payment or ineligibility immediately through the GSWS portal or local Secretariat to expedite resolution.
+**Is there any previous experiance required for Talliki Vandanam benefits?**\
+For most of the mothers, previous experiance is not really required, thouch it may provide any slight advantage at verification process. The primary focus remains on student attendance and family income.
 
-## Conclusion
-The Talliki Vandanam Scheme 2025 is a landmark initiative that empowers mothers and promotes education by providing direct financial support to families in Andhra Pradesh. With a user-friendly online system for checking payment status, robust grievance redressal mechanisms, and regular updates, the scheme ensures transparency and accessibility. Beneficiaries are encouraged to use the GSWS NBM portal, verify their eligibility, and address any issues promptly to avail the benefits of this transformative program. By reducing financial barriers and incentivizing school attendance, Talliki Vandanam is poised to enhance literacy rates and uplift economically disadvantaged communities across the state.
+**Can i apply for multiple children in same notification of Talliki Vandanam?**\
+Yes, eligible mothers can apply for multiple children according to their educational qualification and based on their eligibility criteria, benefits may variy and seperate verification must be done to Government of AP.
+
+**Are there any Reservations in Talliki Vandanam Scheme?**\
+Yes, government Of Andhra pradesh allows special reservation quotas for SC, SC, OBC, and other special catetories as per the notification.
+
+**How to prepare for Talliki Vandanam status check after applying?**\
+Mothers should focus on eligibility according to their family, please go through previous notifications, which might help to know verification pattern, and stay updated with current affairs, particularly those related to Andhra Pradesh.
+
+\*\*last updated: updated now on 25-07-2025 latest update @ 3:24 \*\* avaliable now:
+
+AP Grama/Ward Sachivalayam (GSWS) is now avaliable here, get easy access now: https://github.com/GSWS-Dashboard Check Talliki Vandanam status, apply for certificates access now Dashboard. updated, now you can check talliki vandanam status from here, ap talliki vandanam scheme status online check now using this url: https://github.com/Talliki-Vandanam-Status

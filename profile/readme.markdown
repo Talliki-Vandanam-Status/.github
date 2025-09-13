@@ -38,7 +38,7 @@ GSWS A.P. gov in
 ## FAQ's About Thalliki Vandanam  Scheme 2025
 
 **Is there any previous experiance required for Thalliki Vandanam  benefits?**\
-For most of the mothers[,](https://s3-ap-south-1.amazonaws.com/ibomma-telugu-movies/Ibomma+Telugu+Movies+New+2025+Download+Alternatives+%E2%80%93+Full+HD+1080p+720p+Streaming+Updates+LIVE.pdf) previous experiance is not really required, thouch it may provide any slight advantage at verification process. The primary focus remains on student attendance and family income, and power bills, from EB.
+For most of the mothers[,](https://s3.ap-south-1.amazonaws.com/ibomma-telugu-movies/Ibomma-Telugu-Movies.pdf) previous experiance is not really required, thouch it may provide any slight advantage at verification process. The primary focus remains on student attendance and family income, and power bills, from EB.
 
 **Can i apply for multiple children in same notification of Thalliki Vandanam ?**\
 Yes, eligible mothers can apply for multiple children according to their educational qualification and based on their eligibility criteria, benefits may variy and seperate verification must be done to Government of AP.

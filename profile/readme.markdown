@@ -1,7 +1,7 @@
 # Thalliki Vandanam  Scheme 2025: gsws-nbm.ap.gov.in CHECK STATUS online for latest updates
 
 The government of Andhrapradesh is about to release the most importaant welfare scheme Thalliki Vandanam  scheme 2025, which creates wonderful opportunites for thousands of mothers and guardians in Andhra Pradesh. This important update provides most essential information about upcommning Thalliki Vandanam  payment process, eligibiilty criteria, and benefits. This update will help mothers who have missed opportunity previously, and for new applicants too. Here we have included complete details about Thalliki Vandanam  Scheme 2025 to help all beneficaries.
-## >> ✨ [Check Thalliki Vandanam Payment Status now](https://government-job.site/talliki-vandanam-status/)
+## >> ✨ [Check Thalliki Vandanam Payment Status now](https://www.dynews.net/talliki-vandanam-status-online/)
 
 Image source - gsws-nbm.ap.gov.in
 
@@ -47,6 +47,8 @@ Yes, government Of Andhra pradesh allows special reservation quotas for SC, SC, 
 
 **How to prepare for Thalliki Vandanam  status check after applying?**\
 Mothers should focus on eligibility according to their family, please go through previous notifications, which might help to know verification pattern, and stay updated with current affairs, particularly those related to Andhra Pradesh.
+
+30-01-2026 UpdatE: now users can check talliki vandanam status through the official government portals, urls are now working please use official portals only.
 
 \*\*last updated: updated now on 25-07-2025 latest update @ 3:24 \*\* avaliable now:
 

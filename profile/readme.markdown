@@ -4,7 +4,7 @@ The government of Andhrapradesh is about to release the most importaant welfare 
 
 <img width="1631" height="484" alt="image" src="https://github.com/user-attachments/assets/464c2b29-26e6-4ff0-8533-b2809df8d342" />
 
-The below given link can help you to check your talliki vandanam status, easily, please gothrough the following source, and check your TAllikivandanam status online from this page. 
+The below given link can help you to check your talliki vandanam status, easily, please gothrough the following source, and check your TAllikivandanam status online from this page. Above IMAGE CREDITS: gsws-nbm.ap.gov.in/BM/ Andhra Pradesh Government website, to check all official talliki vandanam updates: **gsws-nbm.ap.gov.in/BM/**
 
 ## >> ✨ [Check Thalliki Vandanam Payment Status now](https://government-job.site/talliki-vandanam/)
 

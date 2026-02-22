@@ -1,7 +1,7 @@
 # Thalliki Vandanam  Scheme 2025: gsws-nbm.ap.gov.in CHECK STATUS online for latest updates
 
 The government of Andhrapradesh is about to release the most importaant welfare scheme Thalliki Vandanam  scheme 2025, which creates wonderful opportunites for thousands of mothers and guardians in Andhra Pradesh. This important update provides most essential information about upcommning Thalliki Vandanam  payment process, eligibiilty criteria, and benefits. This update will help mothers who have missed opportunity previously, and for new applicants too. Here we have included complete details about Thalliki Vandanam  Scheme 2025 to help all beneficaries.
-## >> ✨ [Check Thalliki Vandanam Payment Status now](https://www.dynews.net/talliki-vandanam-status-online/)
+## >> ✨ [Check Thalliki Vandanam Payment Status now](https://government-job.site/talliki-vandanam/)
 
 Image source - gsws-nbm.ap.gov.in
 
@@ -51,5 +51,7 @@ Mothers should focus on eligibility according to their family, please go through
 30-01-2026 UpdatE: now users can check talliki vandanam status through the official government portals, urls are now working please use official portals only.
 
 \*\*last updated: updated now on 25-07-2025 latest update @ 3:24 \*\* avaliable now:
+
+22-02-2026 > (UPDATED) An Interactive Tool is added to check talliki vandanam status, source is given, please go through it and check your talliki vandanam status online.!!
 
 AP Grama/Ward Sachivalayam (GSWS) is now avaliable here, get easy access now: https://github.com/GSWS-Dashboard Check Thalliki Vandanam  status, apply for certificates access now Dashboard. updated, now you can check Thalliki Vandanam  status from here, ap Thalliki Vandanam  scheme status online check now using this url: https://github.com/Talliki-Vandanam-Status
